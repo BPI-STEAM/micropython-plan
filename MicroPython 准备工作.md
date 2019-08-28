@@ -11,6 +11,7 @@
 - 仓库 https://github.com/junhuanchen/micropython
 - 仓库 https://github.com/labplus-cn/mPython
 - 仓库 https://github.com/artec-kk/StuduinoBit_MicroPython
+- 仓库 https://github.com/adafruit/circuitpython
 - 有很多有趣的功能可以添加
   - smartconfig
   - wifi-mesh
